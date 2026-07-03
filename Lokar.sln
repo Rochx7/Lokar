@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lokar", "Lokar\Lokar.csproj", "{69863770-6A2B-409C-9E49-A780FCABD380}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lokar", "Lokar.csproj", "{69863770-6A2B-409C-9E49-A780FCABD380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
