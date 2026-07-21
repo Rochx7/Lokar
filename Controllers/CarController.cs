@@ -1,5 +1,3 @@
-
-
 using Lokar.Data;
 using Lokar.Models;
 using Microsoft.AspNetCore.Mvc;
